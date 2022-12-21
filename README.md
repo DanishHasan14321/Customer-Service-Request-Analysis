@@ -4,9 +4,6 @@ DESCRIPTION
 
 You've been asked to perform data analysis of service request (311) calls from New York City. You've also been asked to utilize data wrangling techniques to understand the pattern in the data and visualize the major types of complaints.
 
- 
-
-Note: Download 311-service-requests-nyc.zip file using the link given in the Customer Service Requests Analysis project problem statement and extract the dataset 311_Service_Requests_from_2010_to_Present.csv file
 
  
 
